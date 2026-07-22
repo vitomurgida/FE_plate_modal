@@ -12,3 +12,6 @@ This code allows for a fast computation of resonance frequencies and modes of th
 - number of modes to compute
 - mesh size
 - edges boundary conditions
+
+# How to run
+1. Run Main.py
